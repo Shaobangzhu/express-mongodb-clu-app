@@ -1,0 +1,4 @@
+Meta (Facebook)
+React is developed and maintained by Meta.
+Internal teams and hackathon projects often use the full MERN stack.
+However, large-scale production apps usually use GraphQL, Relay, and other custom tooling instead of Express.
